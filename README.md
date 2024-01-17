@@ -65,3 +65,7 @@ The SQL queries for the Dairy Management System are organized as follows:
 
 -Date Functions: Extracting and manipulating date-related information using functions like Month, Year.
 
+- **vw:** Stands for View.
+- **usp:** Stands for User-Defined Stored Procedure.
+
+
